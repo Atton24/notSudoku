@@ -7,6 +7,7 @@
 	//var parentStyle = canvas.parentElement.style;
 	//parentStyle.textAlign = "center";
 	//parentStyle.width = "100%";
+	context.translate(-8,0);
 
 	var selected = 0;
 	var boardSelected = 1;
